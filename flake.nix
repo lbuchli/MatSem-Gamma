@@ -45,6 +45,7 @@
         installPhase = ''
           mkdir -p $out
           cp presentation.slides.html $out/index.html
+          cp -r imgs/ $out/
         '';
       };
 
