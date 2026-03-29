@@ -30,11 +30,16 @@ Die Gamma-Funktion Γ(z) erweitert die Fakultät n! auf beliebige Argumente. Es 
 - <https://math.stackexchange.com/questions/620064/the-complex-gamma-function>
 - <https://math.stackexchange.com/questions/1404704/intuition-behind-frac12-sqrt-pi>
 
-## Books
+## The American Mathematical Monthly
 
-- TBD
+Listet 11 (stand out) Papers über die Gamma Funktion. Anhand der Titel für und am relevantesten:
 
+- (a): Geometric Properties of the Γ function
+- (h): A simple characterization of the Γ function
 
-## Project Proposal
-
-- 
+- color can be used to plot the 4th dimension
+- Mentioned as a source on good online mathematical material (has some things on the gamma function too): https://dlmf.nist.gov/5.2
+- Gamma is the most transcendentally trancendental function (fucntion taht do not satisfy any polynomial differential equation)
+- Definition of convex (s. 403): Take any two points on the curve and join them by a straight line; then the portion of the curve between the points lies below the line.
+  - Logarithmically convex: ln f(x) is convex and f(x) is convex too. The convexity of ln f(x) implies that of f(x).
+- Read up to page 405 and 408 & 409.
