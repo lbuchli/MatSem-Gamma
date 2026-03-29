@@ -43,3 +43,18 @@ Listet 11 (stand out) Papers über die Gamma Funktion. Anhand der Titel für und
 - Definition of convex (s. 403): Take any two points on the curve and join them by a straight line; then the portion of the curve between the points lies below the line.
   - Logarithmically convex: ln f(x) is convex and f(x) is convex too. The convexity of ln f(x) implies that of f(x).
 - Read up to page 405 and 408 & 409.
+
+## Research into History of the Gamma funtion
+
+- Factorials to non-interger arguments studied by Daniel Bernoulli and Christian Goldbach in the 1720
+- Leonhard Euler gave to other definitions
+- James Stirling gives a good estimate of $n!$ in what is now known as Stirling's formula: $n! \sim \sqrt{2\pi n}\left(\frac{n}{e}\right)^n\left(1+O\!\left(\frac{1}{n}\right)\right)$
+- A definite and generally applicable characterization of the gamma function was not given until 1922. Harald Bohr and Johannes Mollerup then proved what is known as the Bohr–Mollerup theorem:
+  -  Harald Boor: Danish Football Player and Mathematician. 
+    - Masters in Mathematics in 1908
+    - Silver medal representing Denmark at the 1908 Olymic Games in London
+    - Docotorate in 1909. His popularity as a footballer was such that when he defended his doctoral thesis the audience was reported as having more football fans than mathematicians.
+    - Famous brother Niels Bohr who is a Nobel Price winner in Physics for studying atomic structure and quantum theory.
+  - Johannes Mollerup: Danish Mathematician (not much to be found on this)
+- Jahnke und Emde: [Funktionentafeln mit Formeln und Kurven](https://archive.org/details/tablesoffunction0000jahn/page/n27/mode/2up).
+  - Bilder dazu unter imgs/JahnkeEmde
