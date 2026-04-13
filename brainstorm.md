@@ -37,7 +37,7 @@ Listet 11 (stand out) Papers über die Gamma Funktion. Anhand der Titel für und
 - (a): Geometric Properties of the Γ function
 - (h): A simple characterization of the Γ function
 
-- color can be used to plot the 4th dimension
+- colour can be used to plot the 4th dimension
 - Mentioned as a source on good online mathematical material (has some things on the gamma function too): https://dlmf.nist.gov/5.2
 - Gamma is the most transcendentally trancendental function (fucntion taht do not satisfy any polynomial differential equation)
 - Definition of convex (s. 403): Take any two points on the curve and join them by a straight line; then the portion of the curve between the points lies below the line.
@@ -50,7 +50,7 @@ Listet 11 (stand out) Papers über die Gamma Funktion. Anhand der Titel für und
 - Leonhard Euler gave to other definitions
 - James Stirling gives a good estimate of $n!$ in what is now known as Stirling's formula: $n! \sim \sqrt{2\pi n}\left(\frac{n}{e}\right)^n\left(1+O\!\left(\frac{1}{n}\right)\right)$
 - A definite and generally applicable characterization of the gamma function was not given until 1922. Harald Bohr and Johannes Mollerup then proved what is known as the Bohr–Mollerup theorem:
-  -  Harald Boor: Danish Football Player and Mathematician. 
+  -  Harald Boor: Danish Football Player and Mathematician.
     - Masters in Mathematics in 1908
     - Silver medal representing Denmark at the 1908 Olymic Games in London
     - Docotorate in 1909. His popularity as a footballer was such that when he defended his doctoral thesis the audience was reported as having more football fans than mathematicians.
